@@ -3,13 +3,11 @@
 // maven pom organized by organization.
 // ------------------------------------------------------------------
 
-nifi-MapperUI-nar
+nifi-MapperUI-ui
 
 
 From: 'Apache NiFi Project' (https://nifi.apache.org/)
-  - nifi-MapperUI-processors (https://nifi.apache.org/nifi-nar-bundles/nifi-MapperUI-bundle/nifi-MapperUI-processors) org.apache.nifi:nifi-MapperUI-processors:jar:1.15.3
-    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
-  - nifi-MapperUI-ui (https://nifi.apache.org/nifi-nar-bundles/nifi-MapperUI-bundle/nifi-MapperUI-ui) org.apache.nifi:nifi-MapperUI-ui:war:1.15.3
+  - nifi-custom-ui-utilities (https://nifi.apache.org/nifi-nar-bundles/nifi-framework-bundle/nifi-framework/nifi-web/nifi-custom-ui-utilities) org.apache.nifi:nifi-custom-ui-utilities:jar:1.15.3
     License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
   - nifi-utils (https://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.15.3
     License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
